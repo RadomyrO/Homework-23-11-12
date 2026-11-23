@@ -1,0 +1,10 @@
+Java homework notes
+
+Files are read line by line with BufferedReader.
+Empty lines are not counted as non-empty.
+
+try-with-resources closes the file automatically.
+FileWriter overwrites the file by default.
+
+Scanner reads user input from the console.
+The end.
